@@ -38,20 +38,21 @@ Perform the same feature engineering, scaling factors, log transformation steps 
 Predict the new data from streamlit and display the output.
 
 ### Tools used
-1.Python
-2.Numpy
-3.Pandas
-4.Streamlit
-5.Seaborn
-6.Matplotlib
-7.Sklearn
+1. Python
+2. Numpy
+3. Pandas
+4. Streamlit
+5. Seaborn
+6. Matplotlib
+7. Sklearn
 
 ### Key skills
-1.Data preprocessing techniques
-2.EDA
-3.Machine learning techniques such as Regression and Classification
-4.Hyper parameter tuning to optimize ML models
-5.Web application using the Streamlit 
+1. Data preprocessing techniques
+2. EDA
+3. Machine learning techniques such as Regression and Classification
+4. Hyper parameter tuning to optimize ML models
+5. Web application using the Streamlit 
 
+### Streamlt Overview
 
 
