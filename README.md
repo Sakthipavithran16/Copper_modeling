@@ -5,8 +5,8 @@
 The copper industry deals with less complex data related to sales and pricing. However, this data may suffer from issues such as skewness and noisy data, which can affect the accuracy of manual predictions. Dealing with these challenges manually can be time-consuming and may not result in optimal pricing decisions.
 
 ## Problem Statement 
-A machine learning regression model can address these above issues by utilizing advanced techniques such as data normalization, feature scaling, and outlier detection, and leveraging algorithms that are robust to skewed and noisy data. 
-A lead classification model is a system for evaluating and classifying leads based on how likely they are to become a customer.
+Develop a machine learning regression model to address these issues by utilizing advanced techniques such as data normalization, feature scaling, and outlier detection, and leveraging algorithms that are robust to skewed and noisy data to predict the selling price.
+Develop a classification model to classifying leads based on how likely they are to become a customer.
 
 ## Approach
 
