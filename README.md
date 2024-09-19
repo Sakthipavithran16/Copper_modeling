@@ -55,4 +55,7 @@ Predict the new data from streamlit and display the output.
 
 ### Streamlt Overview
 
+![Predict Status](https://github.com/Sakthipavithran16/Copper_modeling/blob/main/Streamlit_Image/Streamlit1.JPG)
+![Predict Selling price](https://github.com/Sakthipavithran16/Copper_modeling/blob/main/Streamlit_Image/Streamlit2.JPG)
+
 
