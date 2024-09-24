@@ -37,7 +37,7 @@ Using streamlit module,create an input field where you can enter each column val
 Perform the same feature engineering, scaling factors, log transformation steps using loaded models which is used for training ml model  
 Predict the new data from streamlit and display the output.
 
-### Tools used
+## Tools used
 1. Python
 2. Numpy
 3. Pandas
@@ -46,14 +46,14 @@ Predict the new data from streamlit and display the output.
 6. Matplotlib
 7. Sklearn
 
-### Key skills
+## Key skills
 1. Data preprocessing techniques
 2. EDA
 3. Machine learning techniques such as Regression and Classification
 4. Hyper parameter tuning to optimize ML models
 5. Web application using the Streamlit 
 
-### Streamlt Overview
+## Streamlt Overview
 
 ![Predict Status](https://github.com/Sakthipavithran16/Copper_modeling/blob/main/Streamlit_Image/Streamlit1.JPG)
 ![Predict Selling price](https://github.com/Sakthipavithran16/Copper_modeling/blob/main/Streamlit_Image/Streamlit2.JPG)
